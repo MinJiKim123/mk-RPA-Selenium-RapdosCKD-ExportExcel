@@ -3,7 +3,7 @@
 ## About this project
 * Automates web process to export data to excel sheets for 5+ companies 
 * Input values are configured in XML file _config.xml_
-* Utilize Chromedriver, edgedrvier
+* Utilize Chromedriver, edgedrvier (Selenium)
 * Results are automatically saved in C:/RAPDOSEXL
 
 ## What needs to be improved
