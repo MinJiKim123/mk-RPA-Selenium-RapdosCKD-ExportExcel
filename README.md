@@ -5,6 +5,7 @@
 * Input values are configured in XML file _config.xml_
 * Utilize Chromedriver, edgedrvier (Selenium)
 * Results are automatically saved in C:/RAPDOSEXL
+* All the process are logged in _Log_ folder 
 
 ## What needs to be improved
 * Since web elements can be changed or updated, configuring the elements seperately in xml file rather than hard coding them, could be a good solution
